@@ -1,0 +1,2 @@
+vision_to_mavros
+-DCATKIN_DEVEL_PREFIX=/media/ryan/RAID/EIS_DEV/vision_to_mavros/devel -DCMAKE_INSTALL_PREFIX=/home/ryan/packages/vision_to_mavros/1.0.0/platform-linux/arch-x86_64/os-Ubuntu-20.04 -G Unix Makefiles

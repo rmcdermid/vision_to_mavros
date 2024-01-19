@@ -1,5 +1,2 @@
-.vscode/*
-*.log
-*.parm
-*.tlog*
-__pycache__/
+/build/
+/devel/
